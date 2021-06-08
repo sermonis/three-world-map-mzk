@@ -24,6 +24,9 @@ This module was mainly designed to be included in [ManaZeak](https://github.com/
 ### Basic usage
 
 You can also use this piece of software on any website you want. MzkWorldMap was mainly designed to be used in two ways : as an es6 module or attached to the `window` global scope. If running on a web server, you must ensure that the `./assets/` folder is routed in your web application, so *MzkWorldMap* can properly load its ressources. You can then create a basic instance of the world :
+<p>
+  <img src="/assets/img/screenshots/select.jpg" width="960" height="540" />
+</p>
 
 #### As a module
 
